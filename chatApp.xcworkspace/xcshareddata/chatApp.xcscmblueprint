@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "808B4D1937F8B01C38DA217D94FC233363281274",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "808B4D1937F8B01C38DA217D94FC233363281274" : 9223372036854775807,
+    "5648C4480B10FDF2F73088DAE58A0BA7A4B81549" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0C8D4063-606A-4E7B-83D6-A785444DA3DF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "808B4D1937F8B01C38DA217D94FC233363281274" : "chatApp\/",
+    "5648C4480B10FDF2F73088DAE58A0BA7A4B81549" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "chatApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "chatApp.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KennyHisano\/iosApi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5648C4480B10FDF2F73088DAE58A0BA7A4B81549"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KennyHisano\/chatApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "808B4D1937F8B01C38DA217D94FC233363281274"
+    }
+  ]
+}
